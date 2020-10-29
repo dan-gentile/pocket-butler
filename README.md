@@ -27,9 +27,9 @@
 
 Current Build 1.0 : USER CRUD Functionality + TASK CRUD Functionality along with Calendar view are 100% operational. 
 
-To Checkout the Site: 
-username: dan 
-password: password
+To Checkout the Site: <br>
+username: dan <br>
+password: password <br>
 
 
 Web Link: <https://pocketbutler.herokuapp.com/>
