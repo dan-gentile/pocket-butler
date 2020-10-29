@@ -24,9 +24,13 @@
 ### General info
 ​Pocket Butler is a Task scheduler app to make your life easier, How often do you have something to do but not sure when you'll have time to do it. Pocket Butler is here to help, Just select the Auto Schedule option and Pocket Butler will find the time in your schedule to add it and then notify you when you should do it! 
 
---
+
 Current Build 1.0 : USER CRUD Functionality + TASK CRUD Functionality along with Calendar view are 100% operational. 
---
+
+To Checkout the Site: 
+username: dan 
+password: password
+
 
 Web Link: <https://pocketbutler.herokuapp.com/>
 ​
